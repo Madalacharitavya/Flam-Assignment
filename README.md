@@ -79,10 +79,3 @@ npm start
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-
-git commit -m "Added detailed README"
-git push origin main
-````
-
-Let me know if you'd like me to generate a GIF or organize your images folder too.
